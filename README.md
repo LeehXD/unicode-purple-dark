@@ -3,3 +3,5 @@
 </br>
 <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg" style="height: 10px; width: 20px;"/> BRA – Um tema que transmite Elegância e Sabedoria, contribuindo para o seu ambiente de desenvolvimento
 <img src="https://i.imgur.com/PYkB9v3.png"  />
+[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leehxd/)](https://www.linkedin.com/in/leehxd/) 
+[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@leehxd.com.br)](mailto:contato@leehxd.com.br)
