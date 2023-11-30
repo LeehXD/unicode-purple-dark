@@ -5,4 +5,4 @@
 <img src="https://i.imgur.com/PYkB9v3.png"  />
 [![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Jordao-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leehxd/)](https://www.linkedin.com/in/leehxd/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@leehxd.com.br-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@leehxd.com.br)](mailto:contato@leehxd.com.br)
-[![Vscode Badge](https://img.shields.io/badge/-DownloadTheme-986DFF?style=flat-square&logo=Visualstudiocode&logoColor=white&link=https://marketplace.visualstudio.com/items?itemName=LeehXD.unicode-purple-dark-theme)](https://marketplace.visualstudio.com/items?itemName=LeehXD.unicode-purple-dark-theme)
+[![Vscode Badge](https://img.shields.io/badge/-Download-986DFF?style=flat-square&logo=Visualstudiocode&logoColor=white&link=https://marketplace.visualstudio.com/items?itemName=LeehXD.unicode-purple-dark-theme)](https://marketplace.visualstudio.com/items?itemName=LeehXD.unicode-purple-dark-theme)
