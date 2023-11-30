@@ -1,4 +1,3 @@
-<img src="[Imgur](https://imgur.com/1NiOCLO)" style="height: 100px; width: 100px;"/> 
 # Unicode Purple Dark - Theme  
 <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" style="height: 10px; width: 20px;"/> EUA - A theme that conveys Elegance and Wisdom, contributing to your development environment
 </br>
